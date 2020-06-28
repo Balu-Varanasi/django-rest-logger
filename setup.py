@@ -27,7 +27,7 @@ author = 'Pedro Gomes'
 author_email = 'pedro@seedstars.com'
 license = 'MIT'
 install_requires = [
-    'Django>=1.11,<=2.2',
+    'Django>=3.0',
 ]
 
 
@@ -105,8 +105,6 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
         'Programming Language :: Python',
-        'Programming Language :: Python :: 2',
-        'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.3',
         'Programming Language :: Python :: 3.4',
